@@ -1,0 +1,168 @@
+/* Reset some default styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Body styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f5f5f5;
+    margin: 0;
+}
+
+/* Header styles */
+header {
+    background-color: #006241;
+    color: #fff;
+    padding: 20px 0;
+}
+
+/* Navigation styles */
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 20px;
+}
+
+.logo img {
+    width: 120px;
+}
+
+nav ul {
+    list-style-type: none;
+    display: flex;
+}
+
+nav ul li {
+    margin-right: 20px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+    transition: color 0.3s;
+}
+
+nav ul li a:hover {
+    color: #009139;
+}
+
+/* Hero section styles */
+#hero {
+    position: relative;
+    background-color: #ffffff;
+    padding: 40px 0;
+    text-align: center;
+    font-family: "Times New Roman", Times, serif;
+    color:#ffffff
+}
+
+.hero-image img {
+    width: 100%;
+}
+
+.hero-content {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #000;
+}
+
+.hero-content h1 {
+    font-size: 36px;
+}
+
+.hero-content p {
+    font-size: 18px;
+    margin: 20px 0;
+}
+
+/* Button styles */
+.btn {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #009139;
+    color: #fff;
+    text-decoration: none;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+    transition: background-color 0.3s;
+}
+
+.btn:hover {
+    background-color: #006241;
+}
+
+/* Menu section styles */
+#menu {
+    background-color: #fff;
+    padding: 40px 0;
+    text-align: center;
+}
+
+#menu h2 {
+    font-size: 24px;
+}
+
+.menu-item {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    background-color: #f2f2f2;
+    border-radius: 5px;
+    transition: transform 0.3s;
+    display: inline-block;
+    width: 30%;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.menu-item:hover {
+    transform: scale(1.05);
+}
+
+.menu-item img {
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.menu-item h3 {
+    font-size: 20px;
+    color: #333;
+}
+
+.menu-item p {
+    font-size: 16px;
+    color: #666;
+}
+
+/* Locations, Order, Rewards section styles - similar to Menu section styles */
+
+/* Footer styles */
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+}
+
+.footer-content ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+}
+
+.footer-content ul li {
+    margin: 0 10px;
+}
+
+.footer-content ul li a {
+    color: #fff;
+    text-decoration: none;
+}
