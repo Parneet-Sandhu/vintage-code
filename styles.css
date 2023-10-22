@@ -174,7 +174,7 @@ nav ul li a:hover {
 #locations {
     background-color:#b84a86 ;
     padding: 40px 0;
-    text-align: left;
+    text-align: center;
     font-family:'OCR A Std', monospace;
     font-size: 20px;
     color:#fef7fd;
@@ -193,7 +193,7 @@ nav ul li a:hover {
     font-size: 20px;
     padding: 40px 0;
     color: #fef7fd;
-    text-align: right;
+    text-align: center;
     font-family:'OCR A Std', monospace;
     background-color:#b84a86 ;
 }
