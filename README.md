@@ -7,6 +7,11 @@ In terms of design, the website incorporates modern aesthetics, utilizing sleek 
 As a contributor to this project, you have the opportunity to enhance and refine the Starbucks website replica. Whether it's improving existing features, adding new functionalities, or refining the design elements, contributions are welcome. Simply fork the repository, make your changes, and submit a pull request to collaborate with other contributors.
 Thank you for exploring the Starbucks website replica. We hope you enjoy your experience and find it both visually appealing and user-friendly.
 
+![starbucks](https://github.com/Parneet-Sandhu/vintage-code/blob/main/Screenshot%202024-04-28%20224657.png?raw=true)
+
+![menu](https://github.com/Parneet-Sandhu/vintage-code/blob/main/Screenshot%202024-04-28%20224621.png?raw=true)
+
+![order](https://github.com/Parneet-Sandhu/vintage-code/blob/main/Screenshot%202024-04-28%20224556.png?raw=true)
 
 
 
